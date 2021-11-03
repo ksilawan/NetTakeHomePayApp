@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Net Take Home Pay</string>
+    <string name="nameedtxt">Full Name</string>
+    <string name="salaryedtxt">Basic Salary</string>
+    <string name="btngo">GO</string>
+    <string name="textview">Check your net take home pay </string>
+
 </resources>
